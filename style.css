@@ -1,0 +1,18 @@
+*{
+    font-family: Pixelify Sans;
+    font-size: 20px;
+}
+.conteiner{
+    width: 1200px;
+    height: 1024px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    border-radius: 10px;
+    -webkit-box-shadow: 37px 12px 17px 16px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 37px 12px 17px 16px rgba(34, 60, 80, 0.2);
+    box-shadow: 37px 12px 17px 16px rgba(34, 60, 80, 0.2);
+}
+.conteiner h1{
+    text-align: center;
+    font-size: 27px;
+}
